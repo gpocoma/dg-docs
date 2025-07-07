@@ -1,6 +1,7 @@
 # Diagrama AWS
 
 ```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'background': '#ffffff', 'primaryColor': '#ffffff', 'primaryTextColor': '#000000', 'primaryBorderColor': '#000000', 'lineColor': '#000000', 'secondaryColor': '#f0f0f0', 'tertiaryColor': '#ffffff'}}}%%
 
 graph TD
     subgraph Origen de Datos
